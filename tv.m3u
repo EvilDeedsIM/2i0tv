@@ -1,3 +1,4 @@
 #EXTM3U
+#EXTM3U x-tvg-url="http://epg.one/epg2.xml"
 #EXTINF:-1 tvg-id="127" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="Movies",viju TV1000 (576p)
 http://stream.mcquack.net/110/index.m3u8
